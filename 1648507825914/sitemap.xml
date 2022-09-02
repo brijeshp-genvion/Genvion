@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://www.genvion.ca/</loc>
+  <lastmod>2015-01-15T19:55:33+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/menumachine/genvion_new/navigation.html</loc>
+  <lastmod>2013-10-04T16:51:33+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/privacy.html</loc>
+  <lastmod>2015-01-15T20:15:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/index.html</loc>
+  <lastmod>2015-01-15T19:55:33+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/about.html</loc>
+  <lastmod>2015-01-15T20:29:23+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/services.html</loc>
+  <lastmod>2015-01-15T20:29:17+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/development.html</loc>
+  <lastmod>2015-01-15T20:36:07+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/manufacturing.html</loc>
+  <lastmod>2015-01-15T20:36:07+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/packaging.html</loc>
+  <lastmod>2015-01-15T20:36:07+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/laboratory.html</loc>
+  <lastmod>2015-01-15T20:36:07+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/facility.html</loc>
+  <lastmod>2015-01-15T20:15:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/careers.html</loc>
+  <lastmod>2015-01-15T20:15:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.genvion.ca/contact.html</loc>
+  <lastmod>2015-01-15T20:15:10+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
